@@ -1,4 +1,4 @@
-foundations-for-analytics-with-python
+foundations-for-analytics-with-python（Python数据分析）
 ========================
 
 This repository contains all of the Python scripts, input files, and output files associated with the book, Foundations for Analytics with Python. <br>
